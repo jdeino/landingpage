@@ -10,6 +10,8 @@ Open the index.html file in your web browser to view the website.
 ## Screenshot(GIF)
 ![Horiseon GIF](./assets/images/landing-page.gif)
 
+[Link to Deployed Webpage](https://jdeino.github.io/landingpage/#social-media-marketing.jpg)
+
 ## Author
 Josh Deino
 Check out my GitHub profile [here](https://github.com/jdeino).
